@@ -1,0 +1,14 @@
+{
+  "name": "jsonresume-theme-neat",
+  "version": "0.0.1",
+  "description": "A sane, minimal, Neat theme for JSON Resume",
+  "author": "Hite Billes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hbilles/jsonresume-theme-neat"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4"
+  }
+}
